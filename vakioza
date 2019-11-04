@@ -1,0 +1,14 @@
+Date de commencement  04 11 2019
+
+Ou créez un nouveau référentiel sur la ligne de commande
+-------------------------------------------------------
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/radomala/perso.git
+git push -u origin master
+
+
+Ou poussez un référentiel existant à partir de la ligne de commande
+---------------------------------------------------------------------
+git remote add origin https://github.com/radomala/perso.git
+git push -u origin master
